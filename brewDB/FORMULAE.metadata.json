@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"rank":{"$numberDouble":"1.0"}},"name":"rank_1"}],"uuid":"1e0771193a1842559db0366e63c1643b","collectionName":"FORMULAE"}
